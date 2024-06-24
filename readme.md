@@ -1,4 +1,4 @@
-# Multiple Amazon Carts
+# Better Amazon Carts
 
 Un pequeño proyecto personal para poder tener múltiples "carritos" de compra de Amazon.
 
@@ -27,8 +27,8 @@ Por eso, he decidido iniciar este proyecto. El objetivo es poder crear múltiple
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/alexdeveloperuwu/amazon-multiple-carts.git
-    cd amazon-multiple-carts
+    git clone https://github.com/alexdeveloperuwu/better-amazon-carts.git
+    cd better-amazon-carts
     ```
 
 2. Instala las dependencias:
